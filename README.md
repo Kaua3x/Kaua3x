@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+meu nome´é kaua soares 
+Estou estudando na Alura                                                                                                                                                                     Estou me desenvolvendo na linguagem JavaScript                                                                                                                                               Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos                                            
+vc pode entrar em contato comigo no                                                                                                                                                                                            
+![](link)
+                                                                                                                                                                                           
 <!--
 **Kaua3x/Kaua3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

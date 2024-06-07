@@ -1,7 +1,8 @@
 ## Hi there 👋
-meu nome´é kaua soares 
-Estou estudando na Alura                                                                                                                                                                     Estou me desenvolvendo na linguagem JavaScript                                                                                                                                               Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos                                            
-vc pode entrar em contato comigo no                                                                                                                                                                                            
+Boas vindas ao meu perfil :                                                                                                                                       
+ meu nome´é kaua soares 
+Estou estudando na Alura                                                                                                                 Estou me desenvolvendo na linguagem JavaScript                                                                                            Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos                                            
+vc pode entrar em contato comigo no 00001121532871sp@al.educacao.sp.gov.br                                                                                                                                                                                           
 ![](link)
                                                                                                                                                                                            
 <!--
